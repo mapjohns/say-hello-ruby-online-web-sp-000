@@ -4,3 +4,4 @@ def say_hello(name = "Rodge")
 end
 
 say_hello('Matthew')
+say_hello
